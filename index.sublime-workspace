@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"client",
+				"clientX"
+			],
+			[
+				"remove",
+				"removeEventListener"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"ran",
+				"randomColor"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"inputNum"
+			],
+			[
+				"l",
+				"leftScore"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"dropdown",
+				"dropdown-menu"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Documents/Html files/es6.html",
+		"/E/Documents/Html files/djkljdf.js",
+		"/E/Documents/Html files/javascript/canvas.html",
+		"/E/Documents/Html files/javascript/canvas.js",
+		"/E/Documents/Html files/GameScorer.html",
+		"/E/Documents/Html files/script.js",
+		"/E/Documents/Html files/css/tic.css",
+		"/E/Documents/Html files/javascript/script.js",
+		"/E/Documents/Html files/index.html",
+		"/E/Documents/Html files/javascript/jquery-3.3.1.js",
+		"/E/Documents/Html files/colorgame.html",
+		"/E/Documents/Html files/hitTheMouse.html",
+		"/E/Documents/Html files/css/hitTheMouse.css",
+		"/E/Documents/Html files/javascript/hitTheMouse.js",
+		"/E/Documents/Html files/todoList.html",
+		"/E/Documents/Html files/javascript/todoList.js",
+		"/E/Documents/Html files/css/todoList.css",
+		"/E/Documents/Html files/javascript/jquery-3.2.1.slim.min.js",
+		"/E/Documents/Html files/klhwer.html",
+		"/E/Documents/Html files/listener.html",
+		"/E/Documents/Html files/jquery.html",
+		"/E/Documents/Html files/javascript/button.js",
+		"/E/Documents/Html files/htmlfike.html",
+		"/E/Documents/Html files/htmlfile.css",
+		"/E/Documents/Html files/javascript.html",
+		"/E/Documents/Html files/htmlfile.js",
+		"/E/Documents/Html files/java2.js",
+		"/E/Documents/Html files/java.html",
+		"/E/Documents/Html files/Project.html",
+		"/E/Documents/Html files/just.css",
+		"/E/Documents/Project/index.html",
+		"/E/Documents/Html files/form1.html",
+		"/E/Documents/Html files/css2.html",
+		"/E/Documents/Bootstrap/New folder/3_10_media_object.html",
+		"/E/Videos/Udemy - bootstrap-4-from-scratch-with-5-projects/01 Intro  Getting Started/005 bootstrap-sandbox-finished/bootstrap_sandbox_finished/2_2_basic_typography.html",
+		"/E/Documents/Html files/dropdown.html",
+		"/E/Videos/Udemy - bootstrap-4-from-scratch-with-5-projects/03 CSS Components/015 3-2-project-files/3_2_project_files/3_2_buttons.html",
+		"/E/Documents/Html files/css/font-awesome.min.css",
+		"/E/Documents/Html files/Myfirstbootstrap.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Documents\\Html files\\dropdown.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
