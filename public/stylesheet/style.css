@@ -82,28 +82,11 @@ h1{
 	margin-top: -5px;
 	margin-top: -5px;
 	color: #f6087c;
-	transition: all 1s;
-	animation: myMove 2s infinite;
 
 }
 
 .header{
 	animation: vibrate 1s infinite;
-}
-
-
-@keyframes myMove{
-
-0% {left: 0px;}
-
-25% {left: 275px;}
-
-50% {left:550px;}
-
-75% {left:275px;}
-
-100% {left:0px   ;}
-
 }
 
 @keyframes vibrate{
