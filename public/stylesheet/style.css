@@ -179,34 +179,3 @@ h1{
 }
 
 
-
-
-@-webkit-keyframes myMove{
-
-0% {left: 0px;}
-
-25% {left: 275px;}
-
-50% {left:550px;}
-
-75% {left:275px;}
-
-100% {left:0px   ;}
-
-}
-
-@-moz-keyframes myMove{
-
-0% {left: 0px;}
-
-25% {left: 275px;}
-
-50% {left:550px;}
-
-75% {left:275px;}
-
-100% {left:0px   ;}
-
-}
-
-
